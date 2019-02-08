@@ -1,20 +1,18 @@
 import React from 'react';
 import './Match.css';
 
-const Match = () => {
-
+const Match = ({key, year, awayTeam, romanNumeral, homeTeam}) => {
+//            <a href={`/#/superbowl/${year}?year=${year}`} className="match-link">
     return (
         <div className="match-link-container">
-            <a href="/#/superbowl/1967?year=1967" className="match-link">
                 <div>
-                    <div className="match-year">1967</div>
+                    <div className="match-year">{year}</div>
                     <div>
-                        <span className="match-city">KC</span>
-                        <span className="roman-numeral">I</span>
-                        <span className="match-city">GB</span>
+                        <span className="match-city">{awayTeam}</span>
+                        <span className="roman-numeral">{romanNumeral}</span>
+                        <span className="match-city">{homeTeam}</span>
                     </div>
                 </div>
-            </a>
         </div>
     )
 }

@@ -1,0 +1,812 @@
+[
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1967",
+      "romanNumeral": "I",
+      "teams": [
+        {
+          "abbr": "KC",
+          "name": "Chiefs",
+          "location": "Kansas City"
+        },
+        {
+          "abbr": "GB",
+          "name": "Packers",
+          "location": "Green Bay"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1968",
+      "romanNumeral": "II",
+      "teams": [
+        {
+          "abbr": "GB",
+          "name": "Packers",
+          "location": "Green Bay"
+        },
+        {
+          "abbr": "OAK",
+          "name": "Raiders",
+          "location": "Oakland"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1969",
+      "romanNumeral": "III",
+      "teams": [
+        {
+          "abbr": "NYJ",
+          "name": "Jets",
+          "location": "New York"
+        },
+        {
+          "abbr": "BAL",
+          "name": "Colts",
+          "location": "Baltimore"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1970",
+      "romanNumeral": "IV",
+      "teams": [
+        {
+          "abbr": "MIN",
+          "name": "Vikings",
+          "location": "Minnesota"
+        },
+        {
+          "abbr": "KC",
+          "name": "Chiefs",
+          "location": "Kansas City"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1971",
+      "romanNumeral": "V",
+      "teams": [
+        {
+          "abbr": "BAL",
+          "name": "Colts",
+          "location": "Baltimore"
+        },
+        {
+          "abbr": "DAL",
+          "name": "Cowboys",
+          "location": "Dallas"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1972",
+      "romanNumeral": "VI",
+      "teams": [
+        {
+          "abbr": "DAL",
+          "name": "Cowboys",
+          "location": "Dallas"
+        },
+        {
+          "abbr": "MIA",
+          "name": "Dolphins",
+          "location": "Miami"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1973",
+      "romanNumeral": "VII",
+      "teams": [
+        {
+          "abbr": "MIA",
+          "name": "Dolphins",
+          "location": "Miami"
+        },
+        {
+          "abbr": "WAS",
+          "name": "Redskins",
+          "location": "Washington D.C."
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1974",
+      "romanNumeral": "VIII",
+      "teams": [
+        {
+          "abbr": "MIN",
+          "name": "Vikings",
+          "location": "Minnesota"
+        },
+        {
+          "abbr": "MIA",
+          "name": "Dolphins",
+          "location": "Miami"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1975",
+      "romanNumeral": "IX",
+      "teams": [
+        {
+          "abbr": "PIT",
+          "name": "Steelers",
+          "location": "Pittsburgh"
+        },
+        {
+          "abbr": "MIN",
+          "name": "Vikings",
+          "location": "Minnesota"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1976",
+      "romanNumeral": "X",
+      "teams": [
+        {
+          "abbr": "DAL",
+          "name": "Cowboys",
+          "location": "Dallas"
+        },
+        {
+          "abbr": "PIT",
+          "name": "Steelers",
+          "location": "Pittsburgh"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1977",
+      "romanNumeral": "XI",
+      "teams": [
+        {
+          "abbr": "OAK",
+          "name": "Raiders",
+          "location": "Oakland"
+        },
+        {
+          "abbr": "MIN",
+          "name": "Vikings",
+          "location": "Minnesota"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1978",
+      "romanNumeral": "XII",
+      "teams": [
+        {
+          "abbr": "DAL",
+          "name": "Cowboys",
+          "location": "Dallas"
+        },
+        {
+          "abbr": "DEN",
+          "name": "Broncos",
+          "location": "DEN"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1979",
+      "romanNumeral": "XIII",
+      "teams": [
+        {
+          "abbr": "PIT",
+          "name": "Steelers",
+          "location": "Pittsburgh"
+        },
+        {
+          "abbr": "DAL",
+          "name": "Cowboys",
+          "location": "Dallas"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1980",
+      "romanNumeral": "XIV",
+      "teams": [
+        {
+          "abbr": "LAR",
+          "name": "Rams",
+          "location": "Los Angeles"
+        },
+        {
+          "abbr": "PIT",
+          "name": "Steelers",
+          "location": "Pittsburgh"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1981",
+      "romanNumeral": "XV",
+      "teams": [
+        {
+          "abbr": "OAK",
+          "name": "Raiders",
+          "location": "Oakland"
+        },
+        {
+          "abbr": "PHI",
+          "name": "Eagles",
+          "location": "Philadelphia"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1983",
+      "romanNumeral": "XVII",
+      "teams": [
+        {
+          "abbr": "MIA",
+          "name": "Dolphins",
+          "location": "Miami"
+        },
+        {
+          "abbr": "WAS",
+          "name": "Redskins",
+          "location": "Washington D.C."
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1986",
+      "romanNumeral": "XX",
+      "teams": [
+        {
+          "abbr": "CHI",
+          "name": "Bears",
+          "location": "Chicago"
+        },
+        {
+          "abbr": "NE",
+          "name": "Patriots",
+          "location": "New England"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1987",
+      "romanNumeral": "XXI",
+      "teams": [
+        {
+          "abbr": "DEN",
+          "name": "Broncos",
+          "location": "Denver"
+        },
+        {
+          "abbr": "NYG",
+          "name": "Giants",
+          "location": "New York"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1988",
+      "romanNumeral": "XXII",
+      "teams": [
+        {
+          "abbr": "WAS",
+          "name": "Redskins",
+          "location": "Washington"
+        },
+        {
+          "abbr": "DEN",
+          "name": "Broncos",
+          "location": "Denver"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1989",
+      "romanNumeral": "XXIII",
+      "teams": [
+        {
+          "abbr": "CIN",
+          "name": "Bengals",
+          "location": "Cincinnati"
+        },
+        {
+          "abbr": "SF",
+          "name": "49ers",
+          "location": "San Francisco"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1990",
+      "romanNumeral": "XXIV",
+      "teams": [
+        {
+          "abbr": "SF",
+          "name": "49ers",
+          "location": "San Francisco"
+        },
+        {
+          "abbr": "DEN",
+          "name": "Broncos",
+          "location": "Denver"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1991",
+      "romanNumeral": "XXV",
+      "teams": [
+        {
+          "abbr": "BUF",
+          "name": "Bills",
+          "location": "Buffalo"
+        },
+        {
+          "abbr": "NYG",
+          "name": "Giants",
+          "location": "New York"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1992",
+      "romanNumeral": "XXVI",
+      "teams": [
+        {
+          "abbr": "WAS",
+          "name": "Redskins",
+          "location": "Washington D.C."
+        },
+        {
+          "abbr": "BUF",
+          "name": "Bills",
+          "location": "Buffalo"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1993",
+      "romanNumeral": "XXVII",
+      "teams": [
+        {
+          "abbr": "BUF",
+          "name": "Bills",
+          "location": "Buffalo"
+        },
+        {
+          "abbr": "DAL",
+          "name": "Cowboys",
+          "location": "Dallas"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1994",
+      "romanNumeral": "XXVIII",
+      "teams": [
+        {
+          "abbr": "DAL",
+          "name": "Cowboys",
+          "location": "Dallas"
+        },
+        {
+          "abbr": "BUF",
+          "name": "Bills",
+          "location": "Buffalo"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1995",
+      "romanNumeral": "XXIX",
+      "teams": [
+        {
+          "abbr": "SD",
+          "name": "Chargers",
+          "location": "San Diego"
+        },
+        {
+          "abbr": "SF",
+          "name": "49ers",
+          "location": "San Francisco"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1996",
+      "romanNumeral": "XXX",
+      "teams": [
+        {
+          "abbr": "DAL",
+          "name": "Cowboys",
+          "location": "Dallas"
+        },
+        {
+          "abbr": "PIT",
+          "name": "Steelers",
+          "location": "Pittsburgh"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1997",
+      "romanNumeral": "XXXI",
+      "teams": [
+        {
+          "abbr": "NE",
+          "name": "Patriots",
+          "location": "New England"
+        },
+        {
+          "abbr": "GB",
+          "name": "Packers",
+          "location": "Green Bay"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "1998",
+      "romanNumeral": "XXXII",
+      "teams": [
+        {
+          "abbr": "GB",
+          "name": "Packers",
+          "location": "Green Bay"
+        },
+        {
+          "abbr": "DEN",
+          "name": "Broncos",
+          "location": "Denver"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "2000",
+      "romanNumeral": "XXXIV",
+      "teams": [
+        {
+          "abbr": "STL",
+          "name": "Rams",
+          "location": "St Louis"
+        },
+        {
+          "abbr": "TEN",
+          "name": "Titans",
+          "location": "Tennessee"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "2001",
+      "romanNumeral": "XXXV",
+      "teams": [
+        {
+          "abbr": "BAL",
+          "name": "Ravens",
+          "location": "Baltimore"
+        },
+        {
+          "abbr": "NYG",
+          "name": "Giants",
+          "location": "New York"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "2002",
+      "romanNumeral": "XXXVI",
+      "teams": [
+        {
+          "abbr": "STL",
+          "name": "Rams",
+          "location": "St. Louis"
+        },
+        {
+          "abbr": "NE",
+          "name": "Patriots",
+          "location": "New England"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "2003",
+      "romanNumeral": "XXXVII",
+      "teams": [
+        {
+          "abbr": "OAK",
+          "name": "Raiders",
+          "location": "Oakland"
+        },
+        {
+          "abbr": "TB",
+          "name": "Buccaneers",
+          "location": "Tampa Bay"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "2004",
+      "romanNumeral": "XXXVIII",
+      "teams": [
+        {
+          "abbr": "CAR",
+          "name": "Panthers",
+          "location": "Carolina"
+        },
+        {
+          "abbr": "NE",
+          "name": "Patriots",
+          "location": "New England"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "2005",
+      "romanNumeral": "XXXIX",
+      "teams": [
+        {
+          "abbr": "NE",
+          "name": "Patriots",
+          "location": "New England"
+        },
+        {
+          "abbr": "PHI",
+          "name": "Eagles",
+          "location": "Philadelphia"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "2006",
+      "romanNumeral": "XL",
+      "teams": [
+        {
+          "abbr": "SEA",
+          "name": "Seahawks",
+          "location": "Seattle"
+        },
+        {
+          "abbr": "PIT",
+          "name": "Steelers",
+          "location": "Pittsburgh"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "2007",
+      "romanNumeral": "XLI",
+      "teams": [
+        {
+          "abbr": "IND",
+          "name": "Colts",
+          "location": "Indianapolis"
+        },
+        {
+          "abbr": "CHI",
+          "name": "Bears",
+          "location": "Chicago"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "2008",
+      "romanNumeral": "XLII",
+      "teams": [
+        {
+          "abbr": "NYG",
+          "name": "Giants",
+          "location": "New York"
+        },
+        {
+          "abbr": "NE",
+          "name": "Patriots",
+          "location": "New England"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "2009",
+      "romanNumeral": "XLIII",
+      "teams": [
+        {
+          "abbr": "PIT",
+          "name": "Steelers",
+          "location": "Pittsburgh"
+        },
+        {
+          "abbr": "ARI",
+          "name": "Cardinals",
+          "location": "Arizona"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "2010",
+      "romanNumeral": "XLIV",
+      "teams": [
+        {
+          "abbr": "NO",
+          "name": "Saints",
+          "location": "New Orleans"
+        },
+        {
+          "abbr": "IND",
+          "name": "Colts",
+          "location": "Indianapolis"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "2011",
+      "romanNumeral": "XLV",
+      "teams": [
+        {
+          "abbr": "GB",
+          "name": "Packers",
+          "location": "Green Bay"
+        },
+        {
+          "abbr": "PIT",
+          "name": "Steelers",
+          "location": "Pittsburgh"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "2012",
+      "romanNumeral": "XLVI",
+      "teams": [
+        {
+          "abbr": "NYG",
+          "name": "Giants",
+          "location": "New York"
+        },
+        {
+          "abbr": "NE",
+          "name": "Patriots",
+          "location": "New England"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "2013",
+      "romanNumeral": "XLII",
+      "teams": [
+        {
+          "abbr": "BAL",
+          "name": "Ravens",
+          "location": "Baltimore"
+        },
+        {
+          "abbr": "SF",
+          "name": "49ers",
+          "location": "San Francisco"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "2014",
+      "romanNumeral": "XLVIII",
+      "teams": [
+        {
+          "abbr": "SEA",
+          "name": "Seahawks",
+          "location": "Seattle"
+        },
+        {
+          "abbr": "DEN",
+          "name": "Broncos",
+          "location": "Denver"
+        }
+      ]
+    },
+    {
+      "currentRollout": true,
+      "available": true,
+      "year": "2015",
+      "romanNumeral": "XLIX",
+      "teams": [
+        {
+          "abbr": "NE",
+          "name": "Patriots",
+          "location": "New England"
+        },
+        {
+          "abbr": "SEA",
+          "name": "Seahawks",
+          "location": "Seattle"
+        }
+      ]
+    }
+  ]
