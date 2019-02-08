@@ -1,0 +1,42 @@
+.superbowl-title {
+    color: rgb(255, 255, 255);
+    font-family: 'Endzone Sans Light Cond', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: normal;
+    font-size: 80px;
+    letter-spacing: 8px;
+    margin: 0;
+    padding: 214px 0px 16px;
+    text-align: center;
+}
+
+.superbowl-50 {
+    margin: 0px auto 44px;
+    width: 180px;
+}
+
+.choose-bowl {
+    color: rgb(153, 153, 153);
+    font-family: Georgia, Arial, sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    margin-bottom: 6px;
+}
+
+.release-arrow-container {
+    padding-bottom: 20px;
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.release-arrow {
+    bottom: 0px;
+    content: '';
+    height: 14px;
+    left: 50%;
+    margin-left: -12px;
+    position: absolute;
+    width: 24px;
+    background-image: url(http://nflcdns.nfl.com/static/content/public/static/img/anthology/release_arrow.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

@@ -1,32 +1,28 @@
-.App {
-  text-align: center;
+@font-face {
+    font-family: Endzone Sans Light Cond;
+    src: url("http://nflcdns.nfl.com/static/content/public/static/wildcat/assets/fonts/endzone-sans/light-cond.woff") format("woff");
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    tap-highlight-color: transparent;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+:focus {
+    outline: none;
 }
 
-.App-link {
-  color: #61dafb;
+body {
+    background-color: rgb(0, 0, 0);
+    font-family: Georgia, Arial, sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
