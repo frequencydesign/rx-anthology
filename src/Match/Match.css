@@ -1,0 +1,36 @@
+.match-link-container {
+    display: inline-block;
+    padding: 30px 0 46px 0;
+    position: relative;
+    text-align: center;
+    width: 200px;
+}
+
+.match-link {
+    text-decoration: none;
+}
+
+.match-year {
+    color: rgb(255, 255, 255);
+    font-family: Georgia, Arial, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.match-city {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    letter-spacing: 2px;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+    top: -8px;
+}
+
+.roman-numeral {
+    font-family: 'Endzone Sans Light Cond', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 50px;
+    letter-spacing: 2px;
+    margin: 10px 14px;
+    color: rgb(204, 153, 51);
+}
