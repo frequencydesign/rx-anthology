@@ -4,15 +4,17 @@ import './Landing.css';
 import HomeHeader from '../HomeHeader/HomeHeader.js'
 import Matches from '../Matches/Matches.js'
 
-class App extends Component {
+class Landing extends Component {
     render() {
         return (
-            <div id="anthology-landing">
-                <HomeHeader />
-                <Matches />
+            <div id="landing-container">
+                <div id="anthology-landing">
+                    <HomeHeader />
+                    <Matches />
+                </div>
             </div>
         );
     }
 }
 
-export default App;
+export default Landing;
