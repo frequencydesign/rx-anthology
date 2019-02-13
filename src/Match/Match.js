@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from "react-router-dom";
 import './Match.css';
 
-const Match = ({key, year, awayTeam, romanNumeral, homeTeam}) => {
+const Match = ({year, awayTeam, romanNumeral, homeTeam}) => {
 //            <a href={`/#/superbowl/${year}?year=${year}`} className="match-link">
     return (
         <Link to={`/superbowl/${year}`}>

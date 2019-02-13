@@ -1,0 +1,371 @@
+{
+    "year": "1967",
+    "teamsAbbr": {
+        "team1": "KC",
+        "team2": "GB"
+    },
+    "teamsFullName": {
+        "team1": "Kansas City Chiefs",
+        "team2": "Green Bay Packers"
+    },
+    "teamsMascot": {
+        "team1": "Chiefs",
+        "team2": "Packers"
+    },
+    "romanNumber": "I",
+    "superBowlNumber": "1",
+    "content": {
+        "headerLogoUrl": "https://imagecomposer.nfl.com/?f=png&l=http://i.nflcdn.com/static/content/public/static/img/anthology/superbowls/1967/logo.png",
+        "firstHand": {
+            "title": "My Super Bowl: Jim Taylor",
+            "text": [
+                {
+                    "intro": "",
+                    "text": "Jim Taylor is one of 10 Packers players from the first Super Bowl who are in the Pro Football Hall of Fame."
+                },
+                {
+                    "intro": "We were excited about representing the National Football League,",
+                    "text": "but we trained and practiced and prepared ourselves like we would for any big game. We also knew we were representing the NFL against a team that been in existence only four or five years, so we had a little bit of incentive."
+                },
+                {
+                    "intro": "We had the experience.",
+                    "text": "We had been in championships games against the New York Giants in ’61 and ’62 and against the Cleveland Browns in ’65."
+                },
+                {
+                    "intro": "We felt very confident.",
+                    "text": "We had great players, many of them in the Pro Football Hall of Fame. And Vince Lombardi was such a tremendous coach. Who could they put out on the field that we couldn’t compete with and defeat?"
+                },
+                {
+                    "intro": "I scored on a 14-yard run in the second quarter.",
+                    "text": "It was just good blocking on a weak-side sweep play. It’s a cakewalk when you get the blocking. It was just like we had been doing the last five or six years."
+                },
+                {
+                    "intro": "We had established the power sweep.",
+                    "text": "With our blockers we were a ball-possession offense that could move the chains."
+                },
+                {
+                    "intro": "We did not know what to expect, because there was no inter-league play.",
+                    "text": "I knew one player, Johnny Robinson, who had played with me at LSU. We knew only what we saw on two or three films of the Chiefs playing other teams from their league. They were the best of the AFL, but they’d only had a few years of playing together. We had had several years of playing together."
+                },
+                {
+                    "intro": "It’s still only blocking and tackling.",
+                    "text": "This was Lombardi’s philosophy — outhit people and out execute people."
+                },
+                {
+                    "intro": "The Chiefs hung in there in the first half, but we were still leading, 14-10.",
+                    "text": "The cream came to the top in the second half."
+                }
+            ]
+        },
+        "superBowlVideoId": "10103061-7033-0000-0053-342514ffd92d",
+        "scores": {
+            "team1Final": "10",
+            "team2Final": "35"
+        },
+        "location": "Los Angeles, CA.",
+        "stadium": "LA Memorial Coliseum ",
+        "dateandtime": "1/15/67",
+        "halftimeShow": {
+            "performer": "University of Arizona and University of Michigan bands"
+        },
+        "tvNetwork": "CBS, NBC",
+        "storyOfTheGame": {
+            "title": "Story of the Game",
+            "text": [
+                {
+                    "text": "The Green Bay Packers opened the Super Bowl series by defeating Kansas City’s AFL champions 35-10 behind the passing of Bart Starr, the receiving of Max McGee, and a key interception by all-pro safety Willie Wood."
+                },
+                {
+                    "text": "Green Bay broke open the game with 3 second-half touchdowns, the first of which was set up by Wood’s 50-yard return of an interception to the Chiefs’ 5-yard line. McGee, who caught only 4 passes all season, caught 7 from Starr for 138 yards and 2 touchdowns. Elijah Pitts ran for 2 other scores."
+                },
+                {
+                    "text": "The Chiefs’ 10 points came in the second quarter, the only touchdown on a 7-yard pass from Len Dawson to Curtis McClinton. Starr completed 16 of 23 passes for 250 yards and 2 touchdowns and was chosen the most valuable player."
+                },
+                {
+                    "text": "The Packers collected $15,000 per man and the Chiefs $7,500—the largest single-game shares in the history of team sports."
+                }   
+            ]
+        },
+        "textlist": {
+            "title": "POP CULTURE 1966",
+            "textItems": [
+                {
+                    "title": "ARTS / ENTERTAINMENT",
+                    "text": "Highest Grossing Movie: “The Bible: In the Beginning…”",
+                    "text": "Most Popular Single: “The Ballad of the Green Berets” by Sgt. Barry Sadler",
+                    "text": "Memorable Movie Quote: “When you have to shoot, shoot. Don't talk.” - Eli Wallach as Tuco in “The Good, the Bad and the Ugly”",
+                    "text": "Most Watched TV Show (Scripted): “Bonanza”",
+                    "text": "Best Selling Novel: “The Source” by James Michener ",
+                    "text": "Best Picture at Oscars: “The Sound of Music” (1965)",
+                    "imageUrl": "https://imagecomposer.nfl.com/?l=http://i.nflcdn.com/static/content/public/static/img/anthology/superbowls/1967/The-Sound-of-Music.jpg"
+                },
+                {
+                    "title": "SPORTS",
+                    "text": "“Star Trek,” “Batman,” “The Newlywed Game,” and “The Hollywood Squares” all premiere",                    
+                    "imageUrl": "https://imagecomposer.nfl.com/?l=http://i.nflcdn.com/static/content/public/static/img/anthology/superbowls/1967/Star-TrekC.jpg"
+                },
+                {
+                    "title": "CULTURAL EVENTS",
+                    "text": "“Star Trek,” “Batman,” “The Newlywed Game,” and “The Hollywood Squares” all premiere",
+                    "text": "Ronald Reagan becomes governor of California",
+                    "text": "Walt Disney dies, while working on The Jungle Book.",
+                    "imageUrl": "https://imagecomposer.nfl.com/?l=http://i.nflcdn.com/static/content/public/static/img/anthology/superbowls/1967/Walt-Disney-Dies.jpg"
+                },
+                {
+                    "title": "CULTURAL EVENTS",
+                    "text": "“Star Trek,” “Batman,” “The Newlywed Game,” and “The Hollywood Squares” all premiere",
+                    "text": "Ronald Reagan becomes governor of California",
+                    "text": "Walt Disney dies, while working on The Jungle Book.",
+                    "text": "Average Price of 30-Second Super Bowl Ad: $42,000",
+                    "imageUrl": "https://imagecomposer.nfl.com/?l=http://i.nflcdn.com/static/content/public/static/img/anthology/superbowls/1967/1966-Super-Bowl-Ad.jpg"
+                },
+                {
+                    "title": "MISCELLANEOUS FACTS",
+                    "text": "Average Price of 30-Second Super Bowl Ad: $42,000",
+                    "text": "Population of United States: 196.6 million",
+                    "text": "Most Popular Baby Name (Boy): Michael",
+                    "text": "Most Popular Baby Name (Girl): Lisa",
+                    "text": "U.S. President: Lyndon B. Johnson",
+                    "text": "Best Selling Album: “Whipped Cream & Other Delights” by Herb Alpert & The Tijuana Brass ",
+                    "text": "Average Price of Gas: $0.31",
+                    "imageUrl": "https://imagecomposer.nfl.com/?l=http://i.nflcdn.com/static/content/public/static/img/anthology/superbowls/1967/1966-Gas.jpg"
+                }
+            ]
+        },
+        "imageGallery1": [
+            {
+                "text": "Green Bay Packers Hall of Fame head coach looks at the trophy that will later bear his name following Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482280/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers Hall of Fame head coach Vince Lombardi shakes the hand of tackle Bob Skoronski (76) following Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482281/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers Hall of Fame fullback Jim Taylor (31) tries to get past Kansas City Chiefs safety Johnny Robinson (42) during Super Bowl I, a 35-10 Packers victory on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482282/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers running back Donny Anderson (44) returns a kickoff during Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482283/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers Hall of Fame cornerback Herb Adderley (26) tries to block a point-after attempt by Kansas City Chiefs kicker Mike Mercer (15) during Super Bowl I, a 35-10 Packers victory on January 15, 1967, at theLos Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482284/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers wide receiver Max McGee (85), the unexpected hero of the game, mills about before Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482285/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Quarterback Bart Starr, who guided the Green Bay Packers to their 35 to 10 victory over the Kansas City Chiefs in Super Bowl game, is interviewed in the dressing room in Los Angeles on Jan. 15, 1967. The victory meant $15,000 for each of the battle-proven Packers. (Associated Press)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482286/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers Hall of Fame safety Willie Wood (24) leaps over fallen players during Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482287/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers Hall of Fame cornerback Herb Adderley (26) runs back a kickoff during Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482288/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs lineback E.J. Holub (55) slinks out of the stadium following Super Bowl I, a 35-10 loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482289/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs running back Clinton McCurtis (32) talks with wide receiver Otis Taylor (89) during Super Bowl I, a 35-10 loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482290/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs Hall of Fame quarterback Len Dawson (16) calls a play in the huddle during Super Bowl I, a 35-10 loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482292/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers Hall of Fame safety Willie Wood (24) on the sidelines during a 35 to 10 Green Bay Packers victory over the Kansas City Chiefs in Super Bowl I on January 15, 1967 at the Los Angeles Memorial Coliseum in Los Angeles, California. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482295/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "While his athletes do calisthenics, head coach Vince Lombardi of the Green Bay Packers studies the Los Angeles Coliseum turf on Jan. 14, 1967. It will be firm and dry for the Super Bowl Game with the Kansas City Chiefs. (Pro Football Hall of Fame)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482294/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs running back Bert Coan (23) gets hammered during Super Bowl I, a 35-10 loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482293/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs Hall of Fame quarterback Len Dawson (16) calls plays in the huddle during Super Bowl I, a 35-10 loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482291/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers defensive end Lionel Aldridge (82) tries to chase down Kansas City Chiefs running back Bert Coan (23) during Super Bowl I, a 35-10 Packers victory on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, California. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482296/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs cheerleaders perform at Super Bowl I, a 35-10 Chiefs loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482297/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers guard Fuzzy Thurston (63) congratulates wide receiver Max McGee (85) after a touchdown catch during Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482298/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs defensive lineman Jerry Mays (75) and center Jon Gilliam (65) and Green Bay Packers tackle Bob Skoronski (76) watch the coin-toss before Super Bowl I, a 35-10 Packers victory on January 15, 1967, at theLos Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482299/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs defensive tackle Andrew Rice (58) walks off the field with Green Bay Packers defensive tackle Bob Brown (78) following Super Bowl I, a 35-10 Packers victory on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482300/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers Hall of Fame defensive end Willie Davis (87) tries to block the kick of Kansas City Chiefs kicker Mike Mercer (15) during Super Bowl I, a 35-10 Packers victory on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482301/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers guard Jerry Kramer (64) on the sidelines during Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482302/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "A gaggle of balloons at Super Bowl I, a 35-10 Green Bay Packers victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482303/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "The Kansas City Chiefs cheerleaders wear theme-uniforms for Super Bowl I, a 35-10 Chiefs loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482304/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs running backs Mike Garrett (21) and Curtis McClinton (32) line up during Super Bowl I, a 35-10 loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482305/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs Hall of Fame quarterback Len Dawson (16) drops back to pass during Super Bowl I, a 35-10 loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482306/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers defensive end Willie Davis, tackle Forrest Gregg (75)--both Hall of Famers--and guard Jerry Kramer (64) walk off the field during Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482307/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs Hall of Fame quarterback Len Dawson (16) calls a play of the huddle during Super Bowl I, a 35-10 loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482308/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "The Los Angeles Memorial Coliseum, site of Super Bowl I, a 35-10 Green Bay Packers victory over the Kansas City Chiefs on January 15, 1967. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482309/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers Hall of Fame head coach  Vince Lombardi watches his team warm up before Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482310/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers guard Fuzzy Thurston (63) congratulates running back Elijah Pitts (22) after Pitts scores a touchdown during Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482311/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers Hall of Fame fullback Jim Taylor (31) and wide receiver Max McGee (85) leave the field during Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482312/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers defensive tackle Ron Kostelnik (77) wraps up Kansas City Chiefs running back Curtis McClinton (32) during Super Bowl I, a 35-10 Packers victory on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482313/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs owner Lamar Hunt, left, visits the Green Bay Packers dressing room and congratulates Max McGee, right, who scored two touchdowns for the Packers in their 35-10 victory in the Super Bowl in Los Angeles on Jan. 15, 1967. Newsmen said Hunt told McGee the Packers have a fine team, the kind of team we'll have some day. (Associated Press)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482314/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers Hall of Fame cornerback Herb Adderley (26) returns a kickoff during Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482315/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs cornerback Willie Mitchell (22) breaks up a pass during Super Bowl I, a 35-10 loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482316/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs running back Bert Coan (23) carries the ball as Green Bay Packers defensive tackle Jim Weatherwax (73) tracks him down during Super Bowl I, a 35-10 loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482317/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs defensive tackle Andy Rice (58) sits in disappointment following Super Bowl I, a 35-10 loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482318/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers Hall of Fame fullback Jim Taylor (31) lowers his shoulder and rams into the line as Kansas City Chiefs linebacker Sherrill Headrick (69) looks to plug the hole during Super Bowl I, a 35-10 Packers victory on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482319/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers Hall of Fame defensive end Willie Davis (87) gets some water on the sidelines during Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482320/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers guard Fuzzy Thurston (63) talks with former Packer and member of the Pro Football Hall of Fame Tony Canadeo during Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482321/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs Hall of Fame quarterback Len Dawson (16) rolls out to pass during Super Bowl I, a 35-10 loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482322/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "The pregame show for Super Bowl I, a 35-10 Green Bay Packers victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482323/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs Hall of Fame quarterback Len Dawson (16) during Super Bowl I, a 35-10 loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482324/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs Hall of Fame quarterback Len Dawson (16) rolls out to pass during Super Bowl I, a 35-10 loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482326/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs Hall of Fame quarterback Len Dawson (16) fires a pass during Super Bowl I, a 35-10 loss to the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482325/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers Hall of Fame fullback Jim Taylor (31) barrels ahead during Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482327/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Kansas City Chiefs defensive tackle Buck Buchanan, inducted into the Pro Football Hall of Fame class of 1990, throws Green Bay Packers fullback Jim Taylor, inducted into the Pro Football Hall of Fame class of 1976, after a play during Super Bowl I, a 35-10 Packer victory at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482328/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers running back Elijah Pitts (22) follows guards Fuzzy Thurston (63) and Jerry Kramer (64) on the famed Packers Sweep during Super Bowl I, a 35-10 victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482329/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Green Bay Packers linebacker Lee Roy Caffee (60) has a bead on Kansas City Chiefs tight end Chris Burford (88) while Packers Hall of Fame linebacker and safety, Ray Nitschke (66) and Willie Wood (24) swoop in for support during Super Bowl I, a 35-10 Packer victory of the Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482330/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "NBC announcer Paul Christman and CBS announcer (and member of the Pro Football Hall of Fame) Frank Gifford  discuss Super Bowl I, a 35-10 Green Bay Packers victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482331/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Television cameras zoom in on Kansas City Chiefs wide receiver Otis Taylor before Super Bowl I,  a 35-10 loss go the Green Bay Packers on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482332/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Al Hirt plays the Nation Anthem before the game between the Green Bay Packers vs Kansas City Chiefs at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482333/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Musician Al Hirt entertains the crowd before Super Bowl I, a 35-10 Green Bay Packers victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482334/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "The pregame show before Super Bowl I, a 35-10 Green Bay Packers victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482335/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "The Goodyear Blimp flies over the stadium for Super Bowl I,  a 35-10 Green Bay Packers victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482336/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            },
+            {
+                "text": "Patrtiotic entertainment at Super Bowl I, a 35-10 Green Bay Packers victory over the Kansas City Chiefs on January 15, 1967, at the Los Angeles Memorial Coliseum in Los Angeles, Calif. (National Football League)",
+                "imageUrl": "https://imagecomposer.nfl.com/?f=jpg&l=http://static.nfl.com/static/content/public/pg-photo/2015/03/29/0ap3000000482337/super-bowl-kansas-city-chiefs-vs-green-bay-packers_pg_600.jpg"
+            }
+        ]
+
+    }
+}

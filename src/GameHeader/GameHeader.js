@@ -5,18 +5,16 @@ import './GameHeader.css';
 const GameHeader = ({superBowlYear}) => {
     return (
         <>
-            <Link to="/">
-                <div id="header">
-                    <div className="header-content">
-                        <a className="header-home-link" href="/#/">
-                            <div id="headerHomeButton">
-                                <div className="header-home-button-icon"></div>
-                                Super Bowl Anthology
-                            </div>
-                        </a>
-                    </div>
+            <div id="header">
+                <div className="header-content">
+                    <Link to="/" className="header-home-link">
+                        <div id="headerHomeButton">
+                            <div className="header-home-button-icon"></div>
+                            Super Bowl Anthology
+                        </div>
+                    </Link>
                 </div>
-            </Link>
+            </div>
             <div className="game-hero-bg"
                  style={{backgroundImage: `url(//imagecomposer.nfl.com/?f=jpg&amp;w=1000&amp;l=http://i.nflcdn.com/static/content/public/static/img/anthology/superbowls/${superBowlYear}/headerBg.jpg)`}}>
                 <div className="game-hero-overlay"></div>
