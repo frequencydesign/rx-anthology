@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from "react-router-dom";
-import './SuperBowlHeader.css';
+import './GameHeader.css';
 
-const SuperBowlHeader = ({superBowlYear}) => {
+const GameHeader = ({superBowlYear}) => {
     return (
         <>
             <Link to="/">
@@ -30,4 +30,4 @@ const SuperBowlHeader = ({superBowlYear}) => {
     );
 };
 
-export default SuperBowlHeader;
+export default GameHeader;

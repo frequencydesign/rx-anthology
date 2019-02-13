@@ -1,0 +1,57 @@
+.game-score-container {
+    background-color: white;
+    display: flex;
+    padding: 40px 0;
+    position: relative;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    -webkit-box-pack: center;
+}
+
+.game-score-away {
+    flex: 1 1 auto;
+    text-align: center;
+}
+
+.game-score-home {
+    flex: 1 1 auto;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .game-score-away, .game-score-home {
+        max-width: 284px !important;
+    }
+}
+
+.game-score-team {
+    font-family: Georgia, Arial, sans-serif;
+    font-size: 24px;
+    font-style: italic;
+    min-height: 48px;
+    text-transform: uppercase;
+}
+
+.game-score {
+    font-family: 'Endzone Sans Light Cond', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 72px;
+}
+
+.game-score-vs {
+    border-bottom: 1px solid rgb(204, 153, 51);
+    color: rgb(204, 153, 51);
+    display: inline-block;
+    font-family: Georgia, Arial, sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    bottom: 50px;
+    line-height: 40px;
+    margin-left: -23px;
+    position: absolute;
+    text-align: center;
+    width: 60px;
+}

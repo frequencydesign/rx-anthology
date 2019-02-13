@@ -1,0 +1,40 @@
+#header {
+    color: rgb(255, 255, 255); font-family: 'Endzone Sans Light Cond', 'Helvetica Neue', Arial, sans-serif; font-size: 30px; height: 64px; position: fixed; text-align: center; top: 0px; width: 100%; z-index: 5; background-color: rgba(0, 0, 0, 0.701961);
+}
+
+.header-content {
+    font-size: 26px; letter-spacing: 1px; line-height: 58px; padding-left: 20px; position: relative;
+}
+
+.header-home-link {
+    text-decoration: none;
+}
+
+#headerHomeButton {
+    color: rgb(255, 255, 255); display: inline-block; left: 0px; line-height: 50px; padding-left: 0px; position: relative; text-decoration: none; text-transform: uppercase;
+}
+
+.header-home-button-icon {
+    content: ''; height: 20px; position: absolute; left: -30px; top: 13px; width: 24px; background-image: url('http://nflcdns.nfl.com/static/content/public/static/img/anthology/home.png'); background-repeat: no-repeat;
+}
+
+.game-hero-bg {
+    height: 500px; position: relative; text-align: center; width: 100%; background-color: gray; background-size: cover; background-position: 50% 50%; background-repeat: no-repeat;
+}
+
+.game-hero-overlay {
+    bottom: 0px; position: absolute; left: 0px; right: 0px; top: 0px; background-image: url('http://nflcdns.nfl.com/static/content/public/static/img/anthology/hero_overlay.png'); background-position: center top;
+}
+
+.game-hero-date {
+    font-family: Times; font-size: 30px; font-style: italic; padding: 130px 0px 0px; position: relative;
+}
+
+.game-hero-year {
+    color: rgb(255, 255, 255); padding: 10px;
+}
+
+.game-hero-logo {
+    max-height: 300px;
+    max-width: 50%;
+}

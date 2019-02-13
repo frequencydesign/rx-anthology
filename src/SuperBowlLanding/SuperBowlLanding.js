@@ -1,12 +1,14 @@
 import React from 'react';
-import { Link } from "react-router-dom";
+
 import './SuperBowlLanding.css';
-import SuperBowlHeader from '../SuperBowlHeader/SuperBowlHeader.js'
+import GameHeader from '../GameHeader/GameHeader.js'
+import GameScore from '../GameScore/GameScore.js'
 
 const SuperBowlLanding = ({match}) => {
     return (
         <>
-            <SuperBowlHeader superBowlYear={match.params.year}/>
+            <GameHeader superBowlYear={match.params.year}/>
+            <GameScore superBowlYear={match.params.year}/>
         </>
     );
 };
