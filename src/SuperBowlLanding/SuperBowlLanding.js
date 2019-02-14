@@ -43,7 +43,8 @@ class SuperBowlLanding extends Component {
             <GameContext.Provider value={{state: this.state}}>
                 <GameHeader superBowlYear={this.props.match.params.year}/>
                 <GameScore superBowlYear={this.props.match.params.year}/>
-                <GameArticle superBowlYear={this.props.match.params.year}/>
+                <GameArticle articleType={'firstHand'}/>
+                <GameArticle articleType={'storyOfTheGame'}/>
             </GameContext.Provider>
         );
     }
