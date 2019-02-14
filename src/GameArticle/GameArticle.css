@@ -18,6 +18,10 @@
     margin: 0px auto 26px; max-width: 800px;
 }
 
+.article-content:first-of-type {
+    display: block !important;
+}
+
 .bolded-first-text {
     font-weight: bold; margin-right: 6px;
 }
