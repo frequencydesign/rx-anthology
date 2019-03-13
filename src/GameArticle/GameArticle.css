@@ -1,21 +1,40 @@
 .article {
-    font-family: Georgia, Arial, sans-serif; font-size: 18px; line-height: 34px; padding: 80px 100px; position: relative; background-color: rgb(240, 241, 242);
+    font-family: Georgia, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 34px;
+    padding: 80px 100px;
+    position: relative;
+    background-color: rgb(240, 241, 242);
 }
 
 .article-header {
-    margin: auto; max-width: 900px;
+    margin: auto;
+    max-width: 900px;
 }
 
 .article h2 {
-    font-family: 'Endzone Sans Light Cond', 'Helvetica Neue', Arial, sans-serif; font-size: 34px; margin: auto auto 40px; position: relative; text-align: center; text-transform: uppercase;
+    font-family: 'Endzone Sans Light Cond', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 34px;
+    margin: auto auto 40px;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 .article h2 .gold-bottom-border {
-    bottom: -16px; content: ''; height: 1px; left: 50%; margin-left: -30px; position: absolute; width: 60px; background-color: rgb(204, 153, 51);
+    bottom: -16px;
+    content: '';
+    height: 1px;
+    left: 50%;
+    margin-left: -30px;
+    position: absolute;
+    width: 60px;
+    background-color: rgb(204, 153, 51);
 }
 
 .article-content {
-    margin: 0px auto 26px; max-width: 800px;
+    margin: 0px auto 26px;
+    max-width: 800px;
 }
 
 .article-content:first-of-type {
@@ -23,21 +42,64 @@
 }
 
 .bolded-first-text {
-    font-weight: bold; margin-right: 6px;
+    font-weight: bold;
+    margin-right: 6px;
 }
 
 .read-more {
-    border: 1px solid rgb(204, 204, 204); cursor: pointer; display: block; margin: 80px auto 0px; padding: 5px; text-decoration: none; width: 244px;
+    border: 1px solid rgb(204, 204, 204);
+    cursor: pointer;
+    display: block;
+    margin: 80px auto 0px;
+    padding: 5px;
+    text-decoration: none;
+    width: 244px;
 }
 
 .read-more-text {
-    color: rgb(255, 255, 255); display: block; font-style: italic; padding: 4px 0px; position: relative; text-align: center; text-decoration: none; background-color: rgb(204, 153, 51);
+    color: rgb(255, 255, 255);
+    display: block;
+    font-style: italic;
+    padding: 4px 0px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(204, 153, 51);
 }
 
 .collapse-text-button {
-    border: 1px solid rgb(203, 204, 205); cursor: pointer; border-radius: 22px; color: rgb(204, 153, 51); font-family: 'Endzone Sans Light Cond', 'Helvetica Neue', Arial, sans-serif; font-size: 30px; height: 44px; line-height: 44px; position: absolute; right: 100px; text-align: center; text-decoration: none; width: 44px; z-index: 2; background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(203, 204, 205);
+    cursor: pointer;
+    border-radius: 22px;
+    color: rgb(204, 153, 51);
+    font-family: 'Endzone Sans Light Cond', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 30px;
+    height: 44px;
+    line-height: 44px;
+    position: absolute;
+    right: 100px;
+    text-align: center;
+    text-decoration: none;
+    width: 44px;
+    z-index: 2;
+    background-color: rgb(255, 255, 255);
 }
 
 .collapse-text-button-absolute {
-    border: 1px solid rgb(203, 204, 205); cursor: pointer; border-radius: 22px; color: rgb(204, 153, 51); font-family: 'Endzone Sans Light Cond', 'Helvetica Neue', Arial, sans-serif; font-size: 30px; height: 44px; line-height: 44px; position: fixed; right: 100px; text-align: center; text-decoration: none; width: 44px; z-index: 2; top: 100px; background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(203, 204, 205);
+    cursor: pointer;
+    border-radius: 22px;
+    color: rgb(204, 153, 51);
+    font-family: 'Endzone Sans Light Cond', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 30px;
+    height: 44px;
+    line-height: 44px;
+    position: fixed;
+    right: 100px;
+    text-align: center;
+    text-decoration: none;
+    width: 44px;
+    z-index: 2;
+    top: 100px;
+    background-color: rgb(255, 255, 255);
 }
