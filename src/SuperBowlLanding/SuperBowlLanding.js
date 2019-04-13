@@ -66,7 +66,10 @@ class SuperBowlLanding extends Component {
                 <GameArticle articleType={'firstHand'}/>
                 <div style={{position: 'relative'}}>
                     <ImageCarousel />
-                    <img src={`https://static.nfl.com/static/content/public/static/img/anthology/superbowls/${this.props.match.params.year}/gameInfoBg.jpg`} style={bgImageStyles} />
+                    <img src={`https://static.nfl.com/static/content/public/static/img/anthology/superbowls/${this.props.match.params.year}/gameInfoBg.jpg`}
+                         style={bgImageStyles}
+                         alt={`Game Info for ${this.props.match.params.year}`}
+                    />
                 </div>
                 <GameArticle articleType={'storyOfTheGame'}/>
             </GameContext.Provider>

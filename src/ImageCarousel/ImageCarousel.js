@@ -17,7 +17,9 @@ class ImageCarousel extends Component {
                         <Slider {...settings}>
                             {context.state.gameContent.content.imageGallery1.map( (asset, i) =>
                                 <div key={i}>
-                                    <img src={asset.imageUrl} />
+                                    <img src={asset.imageUrl}
+                                        alt={`asset.text`}
+                                    />
                                     <div>{asset.text}</div><div>{i}/{context.state.gameContent.content.imageGallery1.length}</div>
                                 </div>
                             )}
